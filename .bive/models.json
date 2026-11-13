@@ -1,5 +1,7 @@
 {
-  "coordinator": ["anthropic/claude-opus-5-5", "anthropic/claude-fable-5-1"],
+  "coordinator": ["synthetic-ash/m14-v1", "synthetic-elm/m4-v1", "synthetic-bay/m13-v1",
+                  "synthetic-bay/m5-v1", "synthetic-ash/m10-v1", "synthetic-elm/m21-v1",
+                  "synthetic-elm/m7-v1", "synthetic-elm/m27-v1", "synthetic-bay/m25-v1"],
   "delegate": ["opencode/beam-free", "opencode-go/beam-free", "opencode/nemotron-3.5-lightning-free",
                "opencode/flint-40b-free", "ollama-cloud/beam", "opencode/big-pickle"]
 }

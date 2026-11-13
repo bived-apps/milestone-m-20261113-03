@@ -1,0 +1,157 @@
+{
+  "version": "coordinator-availability v1",
+  "currentProvider": "synthetic-bay",
+  "assigned": "synthetic-bay/m13-v1",
+  "records": [
+    {
+      "id": "synthetic-ash/m14-v1",
+      "fit": 88,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-ash/m20-v1",
+      "fit": 96,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": true,
+      "eligible": false,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-elm/m4-v1",
+      "fit": 100,
+      "pricing": {
+        "status": "paid",
+        "input": 5,
+        "output": 20
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-bay/m13-v1",
+      "fit": 90,
+      "pricing": {
+        "status": "paid",
+        "input": 2,
+        "output": 8
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-bay/m5-v1",
+      "fit": 79,
+      "pricing": {
+        "status": "paid",
+        "input": 2,
+        "output": 8
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-ash/m10-v1",
+      "fit": 98,
+      "pricing": {
+        "status": "unknown",
+        "input": null,
+        "output": null
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-elm/m21-v1",
+      "fit": 30,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": false,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-elm/m7-v1",
+      "fit": 99,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-elm/m27-v1",
+      "fit": 72,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-bay/m25-v1",
+      "fit": 93,
+      "pricing": {
+        "status": "paid",
+        "input": 2,
+        "output": 8
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Synthetic task-fit and owner allow-list fixture; not a real qualification or benchmark.",
+      "pricingSource": "Synthetic account tariff fixture, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    }
+  ]
+}

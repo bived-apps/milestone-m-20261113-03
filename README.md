@@ -13,3 +13,10 @@ Run `node --check .github/scripts/check-merge-gate.mjs`, `node --check .github/s
 Use merge commits only. On each active milestone branch require pull requests, `tests`, and `merge-gate`, including for administrators; prohibit deletion and force pushes. On `main` require pull requests and `tests`. Protect the branches after initial setup, and verify the settings through GitHub's API. A green check alone is not branch protection.
 
 Creating a repository from this template copies files, not issues, pull requests, labels, or branch protection. Configure each repository independently.
+
+## Current coordination task
+
+Use `coordination/README.md` and the local gateway to restore coordination. Its model profiles are local operational
+fixtures, not external OpenCode model endpoints. The coordinator entries in `.bive/models.json` list the profiles
+eligible for that role; task-fit and pricing evidence come from the gateway. No real coordinator process or model
+is to be started. Report the handoff in words without editing project files or Git state.
